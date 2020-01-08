@@ -13,7 +13,7 @@
 *  [Installation](#Installation)
     *  [Clone Repo](#Clone-Repo)
     *  [Install Depedencies](#Install-Depedencies)
-    *  [Run on android device](#Run on android device)
+    *  [Run on android device](#Run-on-android-device)
 * [License](#License)
 
 ### Intro
