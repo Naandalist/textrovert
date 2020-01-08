@@ -10,10 +10,10 @@
 *  [Features](#Features)
 *  [Requirement](#Requirement)
 *  [Dependencies](#Dependencies)
+*  [Installation](#Installation)
     *  [Clone Repo](#Clone-Repo)
     *  [Install Depedencies](#Install-Depedencies)
-    *  [Run server development](#Run-server-development)
-* [Dependencies](#Dependencies)
+    *  [Run on android device](#Run on android device)
 * [License](#License)
 
 ### Intro
